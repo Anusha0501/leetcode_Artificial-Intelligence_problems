@@ -6,7 +6,7 @@
 
 2. **Tic-Tac-Toe Solver**
 
-3. **Sudoku Solver**
+3. **Sudoku Solver** - https://leetcode.com/problems/sudoku-solver/description/
 
 4. **Traveling Salesman Problem (TSP)**
 
