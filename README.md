@@ -1,6 +1,7 @@
 # LeetCode AI Puzzle Problems
 
 This repository contains solutions to various AI-based puzzle problems from LeetCode. Each problem involves an intelligent search or optimization technique to find the best solution efficiently.
+
 ![images](https://github.com/user-attachments/assets/8c19feb2-7cbd-4d08-b750-1b2b7dfab047)
 
 ## Problems Solved (Ongoing 🚀)
